@@ -1,0 +1,6 @@
+#Aqui poner los archivos que se desea ignorar del repositorio
+#Acepta comodines. Ejemplo
+*.a
+# Pero no lib.a
+!lib.a
+#
