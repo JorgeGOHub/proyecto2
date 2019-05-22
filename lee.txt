@@ -13,4 +13,5 @@ Hola ya se modifico
 "Modificado 22-May-10"
 "Modificado 22-May-10-a"
 "Modificado 22-May-10-a Recordando"
+"Modificado 22-May-10-a Recordando ejemplo de firma de commit"
 
